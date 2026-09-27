@@ -1,0 +1,9 @@
+library dependencies - 
+   - pandas
+   - matplotlib
+   - seaborn
+   - scikit-learn
+   - geopandas
+   - numpy
+   - xgboost
+   - jupyter

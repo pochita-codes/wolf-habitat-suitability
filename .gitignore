@@ -216,3 +216,14 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Claude said to add
+data/raw/*
+data/processed/*
+data/external/*
+!data/**/.gitkeep
+*.tif
+*.shp
+*.dbf
+*.shx
+
